@@ -1,8 +1,8 @@
-Die# Definieren der Variablen
+#Die# Definieren der Variablen
 first_name = "Manuel"
 last_name = "Huck" 
-birth_year = "1975"
-has_license = "True"
+birth_year = 1975
+has_license = True
 
 #Ausgabe der Variablen
 print("first_name:", first_name)
